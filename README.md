@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a junior group leader (Fungal Informatics) at the Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute in Jena, Germany. I am interested in microbial ecology and evolution, data visualization, and #Rstats.
+
+
 <!--
 **ameliabedelia/ameliabedelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
