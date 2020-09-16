@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a junior research group leader ([Fungal Informatics](https://www.leibniz-hki.de/en/fungal-informatics.html)) at the Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute in Jena, Germany. I am interested in microbial ecology and evolution, data visualization, and #Rstats.
+I am a junior research group leader ([Fungal Informatics](https://barber-lab.com)) at the [Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute](https://www.leibniz-hki.de/en/home.html) in Jena, Germany. I am interested in microbial ecology and evolution, data visualization, and #Rstats.
 
 
 <!--
