@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a junior research group leader ([Fungal Informatics](https://barber-lab.com)) at the [Leibniz Institute for Natural Product Research and Infection Biology - Hans Knöll Institute](https://www.leibniz-hki.de/en/home.html) in Jena, Germany. I am interested in microbial ecology and evolution, data visualization, and #Rstats.
+I am a junior research group leader at the [Friedrich Schiller University](https://www.uni-jena.de/) in Jena, Germany as part of the [Excellence Cluster Balance of the Microverse](https://www.microverse-cluster.de/en/faculty.html). I am interested in the origins and mechanisms of microbial pathogenicity, antibiotic resistance, data visualization, and #Rstats.
+
+You can find out more about my research group at https://barber-lab.com.
 
 
 <!--
